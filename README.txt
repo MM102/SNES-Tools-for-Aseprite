@@ -26,3 +26,9 @@ Check the wiki (https://github.com/MM102/SNES-Tools-for-Aseprite/wiki)
 section on the Github page or watch the video below for a basic run down.
 (As more features get added this video does get more outdated
 so please check the wiki if you need help.)
+
+Enjoy!
+- MM102
+
+Twitter: @MM102_
+Discord: 102#3573
